@@ -1,0 +1,1 @@
+* make sure the latitude/longitude match the other location information given for integrity purposes.
