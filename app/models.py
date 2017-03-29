@@ -120,7 +120,7 @@ class SeattleCrimeData(db.Model):
         self.latitude = latitude
         self.incident_location = incident_location
         self.initial_type_description = initial_type_description
-        self.intitial_type_subgroup = intitial_type_subgroup
+        self.initial_type_subgroup = initial_type_subgroup
         self.initial_type_group = initial_type_group
         self.at_scene_time = at_scene_time
         self.incident_location_state = incident_location_state
